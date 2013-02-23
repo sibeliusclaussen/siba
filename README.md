@@ -1,4 +1,4 @@
 siba
 ====
 
-Sistema de postifólio criado com Ruby on Rails
+Sistema de portifólio criado com Ruby on Rails
